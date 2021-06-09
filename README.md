@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **All about web developer tecnology.**
+- 🌱 I’m currently learning **All about web developer technology.**
 
 - 📫 How to reach me **mingel.js@gmail.com**
 
