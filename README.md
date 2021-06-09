@@ -1,4 +1,4 @@
-<a href="#" align="center"><img width="500px" src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" height="500px"/></a>
+<a href="#" ><img width="500px" align="center" src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" height="500px"/></a>
 
 <h1 align="center">Hi <img src="" width="30px">, I'm Miguel</h1>
 <h3 align="center">I'm Full Stack Developer from Chile.</h3>
