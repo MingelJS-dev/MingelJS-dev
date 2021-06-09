@@ -1,6 +1,6 @@
 <a href="#" ><img width="500px" align="center" src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" height="500px"/></a>
 
-<h1 align="center">Hi <img src="" width="30px">, I'm Miguel</h1>
+<h1 align="center">Hi, I'm Miguel</h1>
 <h3 align="center">I'm Full Stack Developer from Chile.</h3>
 
 
@@ -27,6 +27,7 @@
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
+     <a href="https://redux.js.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
 
